@@ -1,8 +1,3 @@
-# statefull_widgets
+Stateful Widgets
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Basic application to show working of stateful widgets in flutter
